@@ -1,19 +1,19 @@
 # MAON Research Papers
 
-**209 papers** across 10 research domains.
+**216 papers** across 10 research domains.
 
 ## Categories
 
 - 01 - HRV and Mental Health (22)
-- 02 - Sleep Architecture and Mood Disorders (15)
-- 03 - Heart Rate Patterns, Stress, Burnout (23)
-- 04 - Digital Behavior and Mental Health (51)
+- 02 - Sleep Architecture and Mood Disorders (18)
+- 03 - Heart Rate Patterns, Stress, Burnout (25)
+- 04 - Digital Behavior and Mental Health (52)
 - 05 - Wearable-Based Illness and Anomaly Detection (17)
 - 06 - Circadian Rhythm Disruption (17)
 - 07 - Activity, Sedentary Behavior, and Mental Health (16)
 - 08 - Respiratory Rate and Autonomic Function (16)
 - 09 - ADHD and Behavioral/Physiological Signals (17)
-- 10 - Eating Disorders and Physiological Markers (15)
+- 10 - Eating Disorders and Physiological Markers (16)
 
 ## Papers
 
@@ -47,20 +47,25 @@
 - 02-digital-cbt-insomnia-fully-automated-meta-analysis.md
 - 02-objective-sleep-depression-adults-meta-analysis.md
 - 02-rem-sleep-dysregulation-depression.md
+- 02-sleep-apnea-wearable-ai-detection-meta-analysis.md
 - 02-sleep-architecture-changes-depression-review.md
 - 02-sleep-fragmentation-cognition-fatigue.md
 - 02-sleep-mental-disorders-psg-meta-analysis.md
 - 02-wearable-ai-sleep-disorders-scoping-review.md
 - 02-wearable-sleep-activity-bipolar-variability.md
+- 02-wearable-sleep-apnea-detection-ai-systematic-review.md
 - 02-wearable-sleep-circadian-mood-episode-prediction.md
 - 02-wearable-sleep-staging-validation-six-devices.md
+- 02-world-sleep-society-wearable-tracker-recommendations.md
 - 03-apple-watch-accuracy-living-systematic-review.md
 - 03-brownie-burnout-prediction-wearable-ai-protocol.md
 - 03-burnout-elevated-hr-reduced-activity-teaching.md
 - 03-burnout-prevention-bayesian-wearable-longitudinal.md
+- 03-consumer-wearable-stress-detection-reproducibility.md
 - 03-elme-chatbot-stress-intervention-rct.md
 - 03-garmin-stress-score-mood-arousal-validation.md
 - 03-garmin-stress-score-wearable-physiological-validation.md
+- 03-garmin-vivosmart-psychotherapy-hr-stress-validation.md
 - 03-hrv-fitness-tracker-perceived-stress-information-workers.md
 - 03-jitai-hrv-triggered-breathing-microrandomized-trials.md
 - 03-jitai-mental-health-effectiveness-meta-analysis.md
@@ -121,6 +126,7 @@
 - 04-reducing-social-media-depression-rct-meta-analysis.md
 - 04-screen-time-depression-cohort-meta-analysis.md
 - 04-sleep-quality-mood-ema-study.md
+- 04-smartphone-depression-monitoring-prediction-observational.md
 - 04-smartphone-notifications-cognitive-control.md
 - 04-smartphone-phenotyping-depression-clinically-relevant-review.md
 - 04-smartphone-screen-time-reduction-rct.md
@@ -211,6 +217,7 @@
 - 09-physical-activity-adhd-management-digital-interventions.md
 - 09-wearable-signals-adhd-diagnosis-feasibility.md
 - 09-wearables-adhd-monitoring-intervention-review.md
+- 10-ai-smartphone-personalized-eating-disorder-assessment.md
 - 10-autonomic-phenotyping-eating-disorder-treatment.md
 - 10-bradycardia-anorexia-nervosa-significance.md
 - 10-cardiovascular-complications-eating-disorders.md
