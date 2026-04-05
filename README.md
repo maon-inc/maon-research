@@ -1,19 +1,19 @@
 # MAON Research Papers
 
-**228 papers** across 10 research domains.
+**234 papers** across 10 research domains.
 
 ## Categories
 
-- 01 - HRV and Mental Health (22)
-- 02 - Sleep Architecture and Mood Disorders (18)
+- 01 - HRV and Mental Health (24)
+- 02 - Sleep Architecture and Mood Disorders (20)
 - 03 - Heart Rate Patterns, Stress, Burnout (25)
-- 04 - Digital Behavior and Mental Health (56)
+- 04 - Digital Behavior and Mental Health (57)
 - 05 - Wearable-Based Illness and Anomaly Detection (18)
 - 06 - Circadian Rhythm Disruption (18)
 - 07 - Activity, Sedentary Behavior, and Mental Health (19)
 - 08 - Respiratory Rate and Autonomic Function (18)
 - 09 - ADHD and Behavioral/Physiological Signals (17)
-- 10 - Eating Disorders and Physiological Markers (17)
+- 10 - Eating Disorders and Physiological Markers (18)
 
 ## Papers
 
@@ -22,6 +22,7 @@
 - 01-ema-hrv-ambulatory-stress-wellbeing.md
 - 01-fusing-wearable-biosensors-ai-mental-health-systematic-review.md
 - 01-garmin-stress-score-hrv-validation.md
+- 01-hr-dynamics-digital-biomarker-depression-severity.md
 - 01-hrv-biofeedback-depression-meta-analysis.md
 - 01-hrv-bipolar-borderline-clinical-review.md
 - 01-hrv-bipolar-mood-episodes-bayesian.md
@@ -37,6 +38,7 @@
 - 01-ptsd-ambulatory-physiological-trauma-reactivity.md
 - 01-ptsd-hyperarousal-smartwatch-detection.md
 - 01-smartwatch-hrv-depression-anxiety-longitudinal.md
+- 01-wearable-cognitive-score-prediction-hrv-mci.md
 - 01-wearables-personality-disorders-physiological-data.md
 - 01-wesad-multimodal-stress-detection.md
 - 02-adhd-circadian-rhythm-disorder-review.md
@@ -51,7 +53,9 @@
 - 02-sleep-architecture-changes-depression-review.md
 - 02-sleep-fragmentation-cognition-fatigue.md
 - 02-sleep-mental-disorders-psg-meta-analysis.md
+- 02-sleep-regularity-duration-depression-severity-nhanes.md
 - 02-wearable-ai-sleep-disorders-scoping-review.md
+- 02-wearable-ml-bipolar-mood-prediction-jmir.md
 - 02-wearable-sleep-activity-bipolar-variability.md
 - 02-wearable-sleep-apnea-detection-ai-systematic-review.md
 - 02-wearable-sleep-circadian-mood-episode-prediction.md
@@ -87,6 +91,7 @@
 - 04-calendar-based-behavior-change-health-suggestion.md
 - 04-chatbot-interventions-youth-mental-health-meta-analysis.md
 - 04-consumer-wearables-severe-mental-illness-systematic-review.md
+- 04-design-friction-longitudinal-smartphone-overuse-chi.md
 - 04-design-friction-screen-time-reduction-field-experiment.md
 - 04-differential-temporal-passively-sensed-smartphone-depression-anxiety.md
 - 04-digital-biomarkers-depression-standardization-review.md
@@ -237,6 +242,7 @@
 - 10-eating-disorder-recovery-remote-measurement-technology.md
 - 10-fitness-tracker-disordered-eating-systematic-review.md
 - 10-hrv-biofeedback-app-eating-disorder-interoception.md
+- 10-interoceptive-profiles-eating-weight-disorders-hrv.md
 - 10-late-night-eating-circadian-disruption-depression.md
 - 10-ml-wearable-eating-disorder-behavior-detection.md
 - 10-momentary-physiological-eating-disorders-wearable-review.md
