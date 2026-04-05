@@ -1,19 +1,19 @@
 # MAON Research Papers
 
-**222 papers** across 10 research domains.
+**228 papers** across 10 research domains.
 
 ## Categories
 
 - 01 - HRV and Mental Health (22)
 - 02 - Sleep Architecture and Mood Disorders (18)
 - 03 - Heart Rate Patterns, Stress, Burnout (25)
-- 04 - Digital Behavior and Mental Health (53)
-- 05 - Wearable-Based Illness and Anomaly Detection (17)
+- 04 - Digital Behavior and Mental Health (56)
+- 05 - Wearable-Based Illness and Anomaly Detection (18)
 - 06 - Circadian Rhythm Disruption (18)
 - 07 - Activity, Sedentary Behavior, and Mental Health (19)
-- 08 - Respiratory Rate and Autonomic Function (17)
+- 08 - Respiratory Rate and Autonomic Function (18)
 - 09 - ADHD and Behavioral/Physiological Signals (17)
-- 10 - Eating Disorders and Physiological Markers (16)
+- 10 - Eating Disorders and Physiological Markers (17)
 
 ## Papers
 
@@ -96,6 +96,7 @@
 - 04-digital-phenotyping-monitoring-mental-disorders-key-features.md
 - 04-digital-phenotyping-stress-anxiety-depression-systematic-review.md
 - 04-digital-self-control-tools-systematic-review-meta-analysis.md
+- 04-ema-wearable-tracking-pediatric-depression-cohort.md
 - 04-focus-time-calendar-blocking-wellbeing-work-engagement.md
 - 04-fourier-gps-mobility-bipolar-depression-diagnosis.md
 - 04-genai-chatbot-mental-health-therapeutic-meta-analysis.md
@@ -131,10 +132,12 @@
 - 04-smartphone-notifications-cognitive-control.md
 - 04-smartphone-phenotyping-depression-clinically-relevant-review.md
 - 04-smartphone-screen-time-reduction-rct.md
+- 04-smartphone-sensing-depression-severity-observation.md
 - 04-smartphone-tracked-behavioral-markers-depression-anxiety.md
 - 04-sms-interventions-health-narrative-review.md
 - 04-social-media-depression-dose-response-meta-analysis.md
 - 04-text-messaging-mental-health-young-adults-field-trial.md
+- 04-time2stop-adaptive-app-blocking-ai.md
 - 05-chronic-pain-wearable-prediction-scoping-review.md
 - 05-consumer-wearables-covid-disease-progression.md
 - 05-living-umbrella-review-wearable-accuracy-health.md
@@ -150,6 +153,7 @@
 - 05-warrior-watch-apple-watch-hrv-covid.md
 - 05-wearable-activity-trackers-medical-condition-detection-meta-analysis.md
 - 05-wearable-behavior-foundation-model-health-prediction.md
+- 05-wearable-chronic-disease-monitoring-comprehensive-review.md
 - 05-wearable-sars-cov2-detection-systematic-review.md
 - 05-wearable-sensor-self-reported-covid-detection.md
 - 06-blue-light-sleep-performance-wellbeing-review.md
@@ -197,6 +201,7 @@
 - 08-hrv-sleep-quality-depression-chronic-stress.md
 - 08-insomnia-autonomic-wearable-monitoring.md
 - 08-polyvagal-theory-clinical-insight-review.md
+- 08-portable-remote-hrv-biofeedback-feasibility-review.md
 - 08-remote-hrv-biofeedback-mental-health-meta-analysis.md
 - 08-remote-hrv-biofeedback-wearable-feasibility-healthcare.md
 - 08-respiratory-sinus-arrhythmia-vagal-tone-biobehavioral.md
@@ -237,5 +242,6 @@
 - 10-momentary-physiological-eating-disorders-wearable-review.md
 - 10-night-eating-syndrome-circadian-profiles.md
 - 10-physical-activity-eating-disorders-systematic-review.md
+- 10-smartphone-apps-eating-disorders-rct-meta-analysis.md
 - 10-wearable-fitness-tracker-eating-disorder-clinical-sample.md
 - 10-wearable-passive-sensing-binge-eating-prediction.md
