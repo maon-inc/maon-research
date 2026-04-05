@@ -1,17 +1,17 @@
 # MAON Research Papers
 
-**216 papers** across 10 research domains.
+**222 papers** across 10 research domains.
 
 ## Categories
 
 - 01 - HRV and Mental Health (22)
 - 02 - Sleep Architecture and Mood Disorders (18)
 - 03 - Heart Rate Patterns, Stress, Burnout (25)
-- 04 - Digital Behavior and Mental Health (52)
+- 04 - Digital Behavior and Mental Health (53)
 - 05 - Wearable-Based Illness and Anomaly Detection (17)
-- 06 - Circadian Rhythm Disruption (17)
-- 07 - Activity, Sedentary Behavior, and Mental Health (16)
-- 08 - Respiratory Rate and Autonomic Function (16)
+- 06 - Circadian Rhythm Disruption (18)
+- 07 - Activity, Sedentary Behavior, and Mental Health (19)
+- 08 - Respiratory Rate and Autonomic Function (17)
 - 09 - ADHD and Behavioral/Physiological Signals (17)
 - 10 - Eating Disorders and Physiological Markers (16)
 
@@ -112,6 +112,7 @@
 - 04-mobile-monitoring-mood-multimodal-phenotyping-depression.md
 - 04-mobile-sensing-depression-longitudinal-systematic-review.md
 - 04-mobile-sensing-depression-severity-heterogeneous-conditions.md
+- 04-mobility-smartphone-digital-phenotypes-cognition-mood.md
 - 04-multifaceted-nudge-smartphone-use-crossover-trial.md
 - 04-multimodal-digital-phenotyping-depression-wearable-smartphone.md
 - 04-narrative-visualization-medicine-health-data.md
@@ -154,6 +155,7 @@
 - 06-blue-light-sleep-performance-wellbeing-review.md
 - 06-chronotype-mood-disorder-risk-review.md
 - 06-circadian-entropy-mental-health-disorders.md
+- 06-circadian-misalignment-youth-mood-disorders-wearable.md
 - 06-circadian-rest-activity-bipolar-actigraphy-review.md
 - 06-circadian-rhythm-disruption-mental-health-review.md
 - 06-digital-markers-circadian-disruption-mental-health.md
@@ -170,12 +172,15 @@
 - 06-wearables-chronomedicine-circadian-health-interpretation.md
 - 07-accelerometer-activity-neuropsychiatric-diseases-cohort.md
 - 07-accelerometer-physical-activity-sedentary-depression-anxiety-uk-biobank.md
+- 07-ai-device-based-physical-activity-mental-health-systematic-review.md
 - 07-caffeine-sleep-quality-wearable-monitoring.md
 - 07-cardiorespiratory-fitness-mental-health-dementia-meta-analysis.md
 - 07-cognitive-performance-sleep-quality-wearable-mobile-sensors.md
 - 07-daily-steps-depression-systematic-review-meta-analysis.md
 - 07-daily-steps-dose-response-health-outcomes-lancet.md
 - 07-depressive-symptoms-physical-activity-adolescence-lancet.md
+- 07-digital-behavior-change-physical-activity-meta-analysis.md
+- 07-digital-gait-biomarkers-wrist-sensor-depression-prediction.md
 - 07-dose-response-physical-activity-depression-uk-biobank.md
 - 07-exercise-depression-network-meta-analysis-2024.md
 - 07-exercise-hrv-interventions-older-adults-systematic-review.md
@@ -188,6 +193,7 @@
 - 08-4-7-8-breathing-stress-chronic-disease-scoping-review.md
 - 08-breathing-practices-stress-anxiety-implementation-review.md
 - 08-consumer-smartwatch-nocturnal-respiratory-rate-validation.md
+- 08-cyclic-sighing-breathwork-mood-physiological-arousal-rct.md
 - 08-hrv-sleep-quality-depression-chronic-stress.md
 - 08-insomnia-autonomic-wearable-monitoring.md
 - 08-polyvagal-theory-clinical-insight-review.md
