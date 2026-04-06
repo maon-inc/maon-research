@@ -1,6 +1,6 @@
 # MAON Research Papers
 
-**234 papers** across 10 research domains.
+**242 papers** across 10 research domains.
 
 ## Categories
 
@@ -8,12 +8,12 @@
 - 02 - Sleep Architecture and Mood Disorders (20)
 - 03 - Heart Rate Patterns, Stress, Burnout (25)
 - 04 - Digital Behavior and Mental Health (57)
-- 05 - Wearable-Based Illness and Anomaly Detection (18)
-- 06 - Circadian Rhythm Disruption (18)
-- 07 - Activity, Sedentary Behavior, and Mental Health (19)
-- 08 - Respiratory Rate and Autonomic Function (18)
-- 09 - ADHD and Behavioral/Physiological Signals (17)
-- 10 - Eating Disorders and Physiological Markers (18)
+- 05 - Wearable-Based Illness and Anomaly Detection (19)
+- 06 - Circadian Rhythm Disruption (19)
+- 07 - Activity, Sedentary Behavior, and Mental Health (20)
+- 08 - Respiratory Rate and Autonomic Function (19)
+- 09 - ADHD and Behavioral/Physiological Signals (20)
+- 10 - Eating Disorders and Physiological Markers (19)
 
 ## Papers
 
@@ -161,6 +161,7 @@
 - 05-wearable-chronic-disease-monitoring-comprehensive-review.md
 - 05-wearable-sars-cov2-detection-systematic-review.md
 - 05-wearable-sensor-self-reported-covid-detection.md
+- 05-wearable-sensors-long-covid-management-scoping-review.md
 - 06-blue-light-sleep-performance-wellbeing-review.md
 - 06-chronotype-mood-disorder-risk-review.md
 - 06-circadian-entropy-mental-health-disorders.md
@@ -179,6 +180,7 @@
 - 06-social-jetlag-mental-health-systematic-review-meta-analysis.md
 - 06-wearable-technology-circadian-rhythm-clinical-review.md
 - 06-wearables-chronomedicine-circadian-health-interpretation.md
+- 06-wrist-temperature-depression-morning-physiological.md
 - 07-accelerometer-activity-neuropsychiatric-diseases-cohort.md
 - 07-accelerometer-physical-activity-sedentary-depression-anxiety-uk-biobank.md
 - 07-ai-device-based-physical-activity-mental-health-systematic-review.md
@@ -198,6 +200,7 @@
 - 07-physical-activity-depression-distress-overview-systematic-reviews.md
 - 07-replacing-sedentary-movement-depression-anxiety-uk-biobank.md
 - 07-sedentary-behavior-physical-activity-depression-dose-response.md
+- 07-wearable-tracker-older-adults-physical-activity-meta-analysis.md
 - 08-4-7-8-breathing-hrv-blood-pressure-sleep-deprivation.md
 - 08-4-7-8-breathing-stress-chronic-disease-scoping-review.md
 - 08-breathing-practices-stress-anxiety-implementation-review.md
@@ -209,6 +212,7 @@
 - 08-portable-remote-hrv-biofeedback-feasibility-review.md
 - 08-remote-hrv-biofeedback-mental-health-meta-analysis.md
 - 08-remote-hrv-biofeedback-wearable-feasibility-healthcare.md
+- 08-resonance-breathing-hrv-inhibitory-control-gad.md
 - 08-respiratory-sinus-arrhythmia-vagal-tone-biobehavioral.md
 - 08-slow-breathing-anxiety-regulation.md
 - 08-slow-breathing-hrv-systematic-review-meta-analysis.md
@@ -226,11 +230,14 @@
 - 09-adhd-smartphone-addiction-sleep-university-students.md
 - 09-adhd-task-hrv-meta-analysis.md
 - 09-adhd-wearables-diagnostics-review-2025.md
+- 09-digital-health-technologies-adults-adhd-scoping-review.md
 - 09-digital-interventions-adhd-meta-analysis-rcts.md
 - 09-digital-phenotyping-wearable-ai-psychiatric-genetic.md
 - 09-fitbit-adhd-prediction-adolescents.md
 - 09-ocd-wearable-biosensor-episode-prediction.md
 - 09-physical-activity-adhd-management-digital-interventions.md
+- 09-screen-time-adhd-symptoms-narrative-review-treatment.md
+- 09-smart-pomodoro-wearable-adhd-time-management.md
 - 09-wearable-signals-adhd-diagnosis-feasibility.md
 - 09-wearables-adhd-monitoring-intervention-review.md
 - 10-ai-smartphone-personalized-eating-disorder-assessment.md
@@ -244,6 +251,7 @@
 - 10-hrv-biofeedback-app-eating-disorder-interoception.md
 - 10-interoceptive-profiles-eating-weight-disorders-hrv.md
 - 10-late-night-eating-circadian-disruption-depression.md
+- 10-mealtime-physiological-responses-eating-disorders.md
 - 10-ml-wearable-eating-disorder-behavior-detection.md
 - 10-momentary-physiological-eating-disorders-wearable-review.md
 - 10-night-eating-syndrome-circadian-profiles.md
