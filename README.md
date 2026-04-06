@@ -1,17 +1,17 @@
 # MAON Research Papers
 
-**242 papers** across 10 research domains.
+**249 papers** across 10 research domains.
 
 ## Categories
 
 - 01 - HRV and Mental Health (24)
 - 02 - Sleep Architecture and Mood Disorders (20)
 - 03 - Heart Rate Patterns, Stress, Burnout (25)
-- 04 - Digital Behavior and Mental Health (57)
-- 05 - Wearable-Based Illness and Anomaly Detection (19)
-- 06 - Circadian Rhythm Disruption (19)
+- 04 - Digital Behavior and Mental Health (58)
+- 05 - Wearable-Based Illness and Anomaly Detection (22)
+- 06 - Circadian Rhythm Disruption (21)
 - 07 - Activity, Sedentary Behavior, and Mental Health (20)
-- 08 - Respiratory Rate and Autonomic Function (19)
+- 08 - Respiratory Rate and Autonomic Function (20)
 - 09 - ADHD and Behavioral/Physiological Signals (20)
 - 10 - Eating Disorders and Physiological Markers (19)
 
@@ -143,8 +143,12 @@
 - 04-social-media-depression-dose-response-meta-analysis.md
 - 04-text-messaging-mental-health-young-adults-field-trial.md
 - 04-time2stop-adaptive-app-blocking-ai.md
+- 04-topic-chatbot-mental-health-self-care-rct.md
+- 05-apple-watch-afib-detection-meta-analysis.md
 - 05-chronic-pain-wearable-prediction-scoping-review.md
+- 05-consumer-wearable-cardiovascular-clinical-guide.md
 - 05-consumer-wearables-covid-disease-progression.md
+- 05-digital-phenotypes-biomarkers-ml-systematic-review.md
 - 05-living-umbrella-review-wearable-accuracy-health.md
 - 05-passive-covid-detection-explainable-ml.md
 - 05-persistent-physiological-changes-post-covid-wearable.md
@@ -169,7 +173,9 @@
 - 06-circadian-rest-activity-bipolar-actigraphy-review.md
 - 06-circadian-rhythm-disruption-mental-health-review.md
 - 06-digital-markers-circadian-disruption-mental-health.md
+- 06-evening-smartphone-melatonin-sleep-memory.md
 - 06-light-at-night-mental-health-systematic-review.md
+- 06-screen-use-sleep-duration-timing-adults.md
 - 06-seasonal-circadian-depression-wearable-longitudinal.md
 - 06-skin-temperature-manic-episodes-bipolar.md
 - 06-skin-temperature-rhythms-mood-disorders-youth.md
@@ -206,6 +212,7 @@
 - 08-breathing-practices-stress-anxiety-implementation-review.md
 - 08-consumer-smartwatch-nocturnal-respiratory-rate-validation.md
 - 08-cyclic-sighing-breathwork-mood-physiological-arousal-rct.md
+- 08-dtx-breathing-app-gamified-hrv-biofeedback.md
 - 08-hrv-sleep-quality-depression-chronic-stress.md
 - 08-insomnia-autonomic-wearable-monitoring.md
 - 08-polyvagal-theory-clinical-insight-review.md
