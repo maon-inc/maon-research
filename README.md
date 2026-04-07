@@ -1,19 +1,19 @@
 # MAON Research Papers
 
-**264 papers** across 10 research domains.
+**269 papers** across 10 research domains.
 
 ## Categories
 
 - 01 - HRV and Mental Health (24)
 - 02 - Sleep Architecture and Mood Disorders (21)
 - 03 - Heart Rate Patterns, Stress, Burnout (26)
-- 04 - Digital Behavior and Mental Health (61)
-- 05 - Wearable-Based Illness and Anomaly Detection (24)
-- 06 - Circadian Rhythm Disruption (22)
+- 04 - Digital Behavior and Mental Health (62)
+- 05 - Wearable-Based Illness and Anomaly Detection (25)
+- 06 - Circadian Rhythm Disruption (23)
 - 07 - Activity, Sedentary Behavior, and Mental Health (23)
-- 08 - Respiratory Rate and Autonomic Function (22)
+- 08 - Respiratory Rate and Autonomic Function (23)
 - 09 - ADHD and Behavioral/Physiological Signals (21)
-- 10 - Eating Disorders and Physiological Markers (20)
+- 10 - Eating Disorders and Physiological Markers (21)
 
 ## Papers
 
@@ -119,6 +119,7 @@
 - 04-limiting-social-media-youth-emotional-distress-rct.md
 - 04-llm-chatbot-evolution-mental-health-systematic-review.md
 - 04-llm-chatbots-agentic-ai-mental-health-counseling-systematic-review.md
+- 04-llm-safety-metrics-mental-health-chatbot-evaluation.md
 - 04-mobile-monitoring-mood-multimodal-phenotyping-depression.md
 - 04-mobile-sensing-depression-longitudinal-systematic-review.md
 - 04-mobile-sensing-depression-severity-heterogeneous-conditions.md
@@ -170,6 +171,7 @@
 - 05-wearable-activity-trackers-medical-condition-detection-meta-analysis.md
 - 05-wearable-behavior-foundation-model-health-prediction.md
 - 05-wearable-chronic-disease-monitoring-comprehensive-review.md
+- 05-wearable-data-quality-ambulatory-monitoring-mitigation.md
 - 05-wearable-sars-cov2-detection-systematic-review.md
 - 05-wearable-sensor-self-reported-covid-detection.md
 - 05-wearable-sensors-long-covid-management-scoping-review.md
@@ -180,6 +182,7 @@
 - 06-circadian-misalignment-youth-mood-disorders-wearable.md
 - 06-circadian-rest-activity-bipolar-actigraphy-review.md
 - 06-circadian-rhythm-disruption-mental-health-review.md
+- 06-commercial-wearable-circadian-rhythm-monitoring-comparison.md
 - 06-digital-markers-circadian-disruption-mental-health.md
 - 06-evening-smartphone-melatonin-sleep-memory.md
 - 06-light-at-night-mental-health-systematic-review.md
@@ -222,6 +225,7 @@
 - 08-4-7-8-breathing-stress-chronic-disease-scoping-review.md
 - 08-breathing-practices-stress-anxiety-implementation-review.md
 - 08-breathing-techniques-depression-scoping-review.md
+- 08-breathwork-chronic-stress-mental-health-technique-review.md
 - 08-comparing-breathing-techniques-hrv-co2-mood.md
 - 08-consumer-smartwatch-nocturnal-respiratory-rate-validation.md
 - 08-cyclic-sighing-breathwork-mood-physiological-arousal-rct.md
@@ -266,6 +270,7 @@
 - 10-autonomic-phenotyping-eating-disorder-treatment.md
 - 10-bradycardia-anorexia-nervosa-significance.md
 - 10-cardiovascular-complications-eating-disorders.md
+- 10-dbt-smartphone-app-binge-eating-rct.md
 - 10-diet-fitness-apps-body-image-disordered-eating-review.md
 - 10-eating-disorder-hrv-systematic-review.md
 - 10-eating-disorder-recovery-remote-measurement-technology.md
