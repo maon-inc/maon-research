@@ -1,19 +1,19 @@
 # MAON Research Papers
 
-**249 papers** across 10 research domains.
+**254 papers** across 10 research domains.
 
 ## Categories
 
 - 01 - HRV and Mental Health (24)
-- 02 - Sleep Architecture and Mood Disorders (20)
+- 02 - Sleep Architecture and Mood Disorders (21)
 - 03 - Heart Rate Patterns, Stress, Burnout (25)
-- 04 - Digital Behavior and Mental Health (58)
-- 05 - Wearable-Based Illness and Anomaly Detection (22)
-- 06 - Circadian Rhythm Disruption (21)
+- 04 - Digital Behavior and Mental Health (59)
+- 05 - Wearable-Based Illness and Anomaly Detection (23)
+- 06 - Circadian Rhythm Disruption (22)
 - 07 - Activity, Sedentary Behavior, and Mental Health (20)
 - 08 - Respiratory Rate and Autonomic Function (20)
 - 09 - ADHD and Behavioral/Physiological Signals (20)
-- 10 - Eating Disorders and Physiological Markers (19)
+- 10 - Eating Disorders and Physiological Markers (20)
 
 ## Papers
 
@@ -47,6 +47,7 @@
 - 02-consumer-sleep-tracker-accuracy-11-devices.md
 - 02-daily-sleep-mood-affect-wearables-systematic-review.md
 - 02-digital-cbt-insomnia-fully-automated-meta-analysis.md
+- 02-digital-phenotyping-bipolar-fitbit-personalized-ml.md
 - 02-objective-sleep-depression-adults-meta-analysis.md
 - 02-rem-sleep-dysregulation-depression.md
 - 02-sleep-apnea-wearable-ai-detection-meta-analysis.md
@@ -133,6 +134,7 @@
 - 04-reducing-social-media-depression-rct-meta-analysis.md
 - 04-screen-time-depression-cohort-meta-analysis.md
 - 04-sleep-quality-mood-ema-study.md
+- 04-smartphone-apps-mental-health-systematic-review-bmj.md
 - 04-smartphone-depression-monitoring-prediction-observational.md
 - 04-smartphone-notifications-cognitive-control.md
 - 04-smartphone-phenotyping-depression-clinically-relevant-review.md
@@ -149,6 +151,7 @@
 - 05-consumer-wearable-cardiovascular-clinical-guide.md
 - 05-consumer-wearables-covid-disease-progression.md
 - 05-digital-phenotypes-biomarkers-ml-systematic-review.md
+- 05-garmin-continuous-hrv-free-living-respiratory-detection.md
 - 05-living-umbrella-review-wearable-accuracy-health.md
 - 05-passive-covid-detection-explainable-ml.md
 - 05-persistent-physiological-changes-post-covid-wearable.md
@@ -167,6 +170,7 @@
 - 05-wearable-sensor-self-reported-covid-detection.md
 - 05-wearable-sensors-long-covid-management-scoping-review.md
 - 06-blue-light-sleep-performance-wellbeing-review.md
+- 06-brighter-nights-darker-days-light-exposure-mortality.md
 - 06-chronotype-mood-disorder-risk-review.md
 - 06-circadian-entropy-mental-health-disorders.md
 - 06-circadian-misalignment-youth-mood-disorders-wearable.md
@@ -247,6 +251,7 @@
 - 09-smart-pomodoro-wearable-adhd-time-management.md
 - 09-wearable-signals-adhd-diagnosis-feasibility.md
 - 09-wearables-adhd-monitoring-intervention-review.md
+- 10-ai-eating-disorder-treatment-qualitative-focus-groups.md
 - 10-ai-smartphone-personalized-eating-disorder-assessment.md
 - 10-autonomic-phenotyping-eating-disorder-treatment.md
 - 10-bradycardia-anorexia-nervosa-significance.md
