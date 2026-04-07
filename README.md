@@ -1,17 +1,17 @@
 # MAON Research Papers
 
-**259 papers** across 10 research domains.
+**264 papers** across 10 research domains.
 
 ## Categories
 
 - 01 - HRV and Mental Health (24)
 - 02 - Sleep Architecture and Mood Disorders (21)
-- 03 - Heart Rate Patterns, Stress, Burnout (25)
-- 04 - Digital Behavior and Mental Health (59)
+- 03 - Heart Rate Patterns, Stress, Burnout (26)
+- 04 - Digital Behavior and Mental Health (61)
 - 05 - Wearable-Based Illness and Anomaly Detection (24)
 - 06 - Circadian Rhythm Disruption (22)
-- 07 - Activity, Sedentary Behavior, and Mental Health (22)
-- 08 - Respiratory Rate and Autonomic Function (21)
+- 07 - Activity, Sedentary Behavior, and Mental Health (23)
+- 08 - Respiratory Rate and Autonomic Function (22)
 - 09 - ADHD and Behavioral/Physiological Signals (21)
 - 10 - Eating Disorders and Physiological Markers (20)
 
@@ -78,6 +78,7 @@
 - 03-ml-stress-detection-free-living-wearable.md
 - 03-multimodal-deep-learning-stress-physiological.md
 - 03-occupational-burnout-hrv-pilot-taiwan.md
+- 03-personalized-jitai-physical-activity-university-pilot.md
 - 03-self-reported-stress-cardiovascular-daily-systematic-review.md
 - 03-sleep-circadian-physical-activity-depression-anxiety-ambulatory.md
 - 03-smartwatch-hrv-stress-management-integration.md
@@ -88,9 +89,11 @@
 - 03-wearable-llm-stress-management-duoethnographic.md
 - 03-wearable-stress-scores-physiological-validation.md
 - 04-active-nudging-screen-time-sleep-quality-rct.md
+- 04-ai-chatbot-social-cues-depression-rct.md
 - 04-blocking-mobile-internet-attention-mental-health-rct.md
 - 04-calendar-based-behavior-change-health-suggestion.md
 - 04-chatbot-interventions-youth-mental-health-meta-analysis.md
+- 04-chatbot-youth-mental-health-systematic-review-meta-analysis.md
 - 04-consumer-wearables-severe-mental-illness-systematic-review.md
 - 04-design-friction-longitudinal-smartphone-overuse-chi.md
 - 04-design-friction-screen-time-reduction-field-experiment.md
@@ -212,12 +215,14 @@
 - 07-physical-activity-depression-distress-overview-systematic-reviews.md
 - 07-replacing-sedentary-movement-depression-anxiety-uk-biobank.md
 - 07-sedentary-behavior-physical-activity-depression-dose-response.md
+- 07-sleep-duration-timing-next-day-physical-activity-wearable.md
 - 07-wearable-exercise-mental-health-systematic-review.md
 - 07-wearable-tracker-older-adults-physical-activity-meta-analysis.md
 - 08-4-7-8-breathing-hrv-blood-pressure-sleep-deprivation.md
 - 08-4-7-8-breathing-stress-chronic-disease-scoping-review.md
 - 08-breathing-practices-stress-anxiety-implementation-review.md
 - 08-breathing-techniques-depression-scoping-review.md
+- 08-comparing-breathing-techniques-hrv-co2-mood.md
 - 08-consumer-smartwatch-nocturnal-respiratory-rate-validation.md
 - 08-cyclic-sighing-breathwork-mood-physiological-arousal-rct.md
 - 08-dtx-breathing-app-gamified-hrv-biofeedback.md
