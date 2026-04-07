@@ -1,6 +1,6 @@
 # MAON Research Papers
 
-**254 papers** across 10 research domains.
+**259 papers** across 10 research domains.
 
 ## Categories
 
@@ -8,11 +8,11 @@
 - 02 - Sleep Architecture and Mood Disorders (21)
 - 03 - Heart Rate Patterns, Stress, Burnout (25)
 - 04 - Digital Behavior and Mental Health (59)
-- 05 - Wearable-Based Illness and Anomaly Detection (23)
+- 05 - Wearable-Based Illness and Anomaly Detection (24)
 - 06 - Circadian Rhythm Disruption (22)
-- 07 - Activity, Sedentary Behavior, and Mental Health (20)
-- 08 - Respiratory Rate and Autonomic Function (20)
-- 09 - ADHD and Behavioral/Physiological Signals (20)
+- 07 - Activity, Sedentary Behavior, and Mental Health (22)
+- 08 - Respiratory Rate and Autonomic Function (21)
+- 09 - ADHD and Behavioral/Physiological Signals (21)
 - 10 - Eating Disorders and Physiological Markers (20)
 
 ## Papers
@@ -147,6 +147,7 @@
 - 04-time2stop-adaptive-app-blocking-ai.md
 - 04-topic-chatbot-mental-health-self-care-rct.md
 - 05-apple-watch-afib-detection-meta-analysis.md
+- 05-apple-watch-mental-health-tracker-review.md
 - 05-chronic-pain-wearable-prediction-scoping-review.md
 - 05-consumer-wearable-cardiovascular-clinical-guide.md
 - 05-consumer-wearables-covid-disease-progression.md
@@ -205,15 +206,18 @@
 - 07-dose-response-physical-activity-depression-uk-biobank.md
 - 07-exercise-depression-network-meta-analysis-2024.md
 - 07-exercise-hrv-interventions-older-adults-systematic-review.md
+- 07-mhealth-adolescent-activity-mental-health-meta-analysis.md
 - 07-physical-activity-anxiety-dose-response-meta-analysis.md
 - 07-physical-activity-depression-adults-meta-analysis.md
 - 07-physical-activity-depression-distress-overview-systematic-reviews.md
 - 07-replacing-sedentary-movement-depression-anxiety-uk-biobank.md
 - 07-sedentary-behavior-physical-activity-depression-dose-response.md
+- 07-wearable-exercise-mental-health-systematic-review.md
 - 07-wearable-tracker-older-adults-physical-activity-meta-analysis.md
 - 08-4-7-8-breathing-hrv-blood-pressure-sleep-deprivation.md
 - 08-4-7-8-breathing-stress-chronic-disease-scoping-review.md
 - 08-breathing-practices-stress-anxiety-implementation-review.md
+- 08-breathing-techniques-depression-scoping-review.md
 - 08-consumer-smartwatch-nocturnal-respiratory-rate-validation.md
 - 08-cyclic-sighing-breathwork-mood-physiological-arousal-rct.md
 - 08-dtx-breathing-app-gamified-hrv-biofeedback.md
@@ -249,6 +253,7 @@
 - 09-physical-activity-adhd-management-digital-interventions.md
 - 09-screen-time-adhd-symptoms-narrative-review-treatment.md
 - 09-smart-pomodoro-wearable-adhd-time-management.md
+- 09-wearable-compulsive-handwashing-detection-ocd.md
 - 09-wearable-signals-adhd-diagnosis-feasibility.md
 - 09-wearables-adhd-monitoring-intervention-review.md
 - 10-ai-eating-disorder-treatment-qualitative-focus-groups.md
