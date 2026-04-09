@@ -1,19 +1,19 @@
 # MAON Research Papers
 
-**269 papers** across 10 research domains.
+**275 papers** across 10 research domains.
 
 ## Categories
 
-- 01 - HRV and Mental Health (24)
+- 01 - HRV and Mental Health (25)
 - 02 - Sleep Architecture and Mood Disorders (21)
 - 03 - Heart Rate Patterns, Stress, Burnout (26)
 - 04 - Digital Behavior and Mental Health (62)
 - 05 - Wearable-Based Illness and Anomaly Detection (25)
-- 06 - Circadian Rhythm Disruption (23)
-- 07 - Activity, Sedentary Behavior, and Mental Health (23)
+- 06 - Circadian Rhythm Disruption (25)
+- 07 - Activity, Sedentary Behavior, and Mental Health (25)
 - 08 - Respiratory Rate and Autonomic Function (23)
 - 09 - ADHD and Behavioral/Physiological Signals (21)
-- 10 - Eating Disorders and Physiological Markers (21)
+- 10 - Eating Disorders and Physiological Markers (22)
 
 ## Papers
 
@@ -39,6 +39,7 @@
 - 01-ptsd-hyperarousal-smartwatch-detection.md
 - 01-smartwatch-hrv-depression-anxiety-longitudinal.md
 - 01-wearable-cognitive-score-prediction-hrv-mci.md
+- 01-wearable-postpartum-depression-digital-biomarkers.md
 - 01-wearables-personality-disorders-physiological-data.md
 - 01-wesad-multimodal-stress-detection.md
 - 02-adhd-circadian-rhythm-disorder-review.md
@@ -186,6 +187,8 @@
 - 06-digital-markers-circadian-disruption-mental-health.md
 - 06-evening-smartphone-melatonin-sleep-memory.md
 - 06-light-at-night-mental-health-systematic-review.md
+- 06-low-frequency-noise-cognitive-function-meta-analysis.md
+- 06-noise-mental-health-mechanisms-review.md
 - 06-screen-use-sleep-duration-timing-adults.md
 - 06-seasonal-circadian-depression-wearable-longitudinal.md
 - 06-skin-temperature-manic-episodes-bipolar.md
@@ -201,6 +204,7 @@
 - 07-accelerometer-activity-neuropsychiatric-diseases-cohort.md
 - 07-accelerometer-physical-activity-sedentary-depression-anxiety-uk-biobank.md
 - 07-ai-device-based-physical-activity-mental-health-systematic-review.md
+- 07-apple-watch-vo2-max-validation.md
 - 07-caffeine-sleep-quality-wearable-monitoring.md
 - 07-cardiorespiratory-fitness-mental-health-dementia-meta-analysis.md
 - 07-cognitive-performance-sleep-quality-wearable-mobile-sensors.md
@@ -221,6 +225,7 @@
 - 07-sleep-duration-timing-next-day-physical-activity-wearable.md
 - 07-wearable-exercise-mental-health-systematic-review.md
 - 07-wearable-tracker-older-adults-physical-activity-meta-analysis.md
+- 07-wrist-gait-normative-data-large-scale.md
 - 08-4-7-8-breathing-hrv-blood-pressure-sleep-deprivation.md
 - 08-4-7-8-breathing-stress-chronic-disease-scoping-review.md
 - 08-breathing-practices-stress-anxiety-implementation-review.md
@@ -272,6 +277,7 @@
 - 10-cardiovascular-complications-eating-disorders.md
 - 10-dbt-smartphone-app-binge-eating-rct.md
 - 10-diet-fitness-apps-body-image-disordered-eating-review.md
+- 10-dietary-interventions-depression-anxiety-meta-analysis.md
 - 10-eating-disorder-hrv-systematic-review.md
 - 10-eating-disorder-recovery-remote-measurement-technology.md
 - 10-fitness-tracker-disordered-eating-systematic-review.md
